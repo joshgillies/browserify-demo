@@ -34,9 +34,9 @@
     "hyperscript": "^1.4.6",
     "opnr": "^1.0.4",
     "postcss-color-rebeccapurple": "^1.1.0",
-    "postcss-modules-extract-imports": "0.0.4",
+    "postcss-modules-extract-imports": "0.0.5",
     "postcss-modules-local-by-default": "0.0.10",
-    "postcss-modules-scope": "0.0.6",
+    "postcss-modules-scope": "0.0.7",
     "watchify": "^3.2.2"
   }
 }
